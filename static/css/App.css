@@ -1,0 +1,369 @@
+@font-face {
+  font-family: Comic;
+  src: url("./assets/fonts/Comic.ttf");
+}
+@font-face {
+  font-family: Morant;
+  src: url("./assets/fonts/Morant.ttf");
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-image: url("./assets/white.svg");
+  height: 100%;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.bg {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  width: 100%;
+}
+
+/* .main {
+  background-size:contain;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  width: 100%;
+  margin-top: 20vw;
+} */
+
+.top {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  width: 100%;
+}
+
+.mid {
+  margin-top: 78vw;
+  margin-bottom: 64vw;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  width: 100%;
+}
+
+.bottom {
+  margin-bottom: 2vw;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  width: 100%;
+}
+
+.header {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  width: 100%;
+  margin-top: 12vw;
+}
+
+.army {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  width: 100%;
+  margin-top: 23.5vw;
+}
+
+.title {
+  position: absolute;
+  margin-top: 4vw;
+  text-align: center;
+  font-size: 10vw;
+  font-family: Comic;
+  color: #1eff1e;
+  -webkit-text-stroke-width: 0.3vw;
+  -webkit-text-stroke-color: #1eff1e;
+  width: 100%;
+}
+
+.ca {
+  position: absolute;
+  font-size: 2.5vw;
+  text-align: center;
+  width: 100%;
+  margin-top: 62vw;
+  color: #ff7ea0;
+  font-weight: 400;
+  font-family: Comic;
+}
+
+.heh {
+  position: absolute;
+  font-size: 3.2vw;
+  margin-top: 13vw;
+  width: 100%;
+  text-align: center;
+  color: #ff0000;
+  font-family: Morant;
+  font-weight: 1000;
+}
+
+.hehe {
+  position: absolute;
+  font-size: 2.8vw;
+  margin-top: 120.5vw;
+  width: 100%;
+  text-align: center;
+  color: #ff00ee;
+}
+
+.heheh {
+  position: absolute;
+  font-size: 2.8vw;
+  margin-top: 762vw;
+  width: 100%;
+  text-align: center;
+  font-family: Comic;
+  font-size: 8vw;
+  text-decoration: none;
+  color: red;
+}
+
+.hehehe {
+  position: absolute;
+  font-size: 2.8vw;
+  margin-top: 266vw;
+  width: 100%;
+  text-align: center;
+  font-family: Comic;
+  font-size: 8vw;
+  text-decoration: none;
+  color: red;
+}
+
+.jupiter {
+  position: absolute;
+  margin-top: 141.5vw;
+  margin-left: 6.25vw;
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 196, 0),
+    rgb(0, 225, 255),
+    rgb(255, 255, 0),
+    rgb(187, 0, 255)
+  );
+  padding: 3vw 24.75vw;
+  text-decoration: none;
+  color: blue;
+  border-radius: 2vw;
+  font-size: 4vw;
+  cursor: pointer;
+  font-family: Comic;
+}
+
+.juptier:hover {
+  cursor: cell;
+}
+
+.icon {
+  height: 8vw;
+}
+
+.footer {
+  text-align: center;
+  width: 80%;
+  font-size: 3vw;
+  margin: 0 9.5vw;
+  font-family: Comic;
+  margin-top: 1.5vw;
+  margin-bottom: 4vw;
+}
+
+.i1container {
+  margin-left: 14vw;
+  margin-top: 66.5vw;
+  position: absolute;
+}
+
+.i2container {
+  margin-left: 29vw;
+  margin-top: 66.5vw;
+  position: absolute;
+}
+
+.i3container {
+  margin-left: 44vw;
+  margin-top: 66.5vw;
+  position: absolute;
+}
+
+.i4container {
+  margin-left: 59vw;
+  margin-top: 66.5vw;
+  position: absolute;
+}
+
+.i5container {
+  margin-left: 74vw;
+  margin-top: 66.5vw;
+  position: absolute;
+}
+
+.i6container {
+  margin-left: 20vw;
+  margin-top: 76.5vw;
+  position: absolute;
+  font-family: Comic;
+  color: #1eff1e;
+  font-size: 5vw;
+}
+
+.i7container {
+  margin-left: 50vw;
+  margin-top: 76.5vw;
+  position: absolute;
+  font-family: Comic;
+  color: blue;
+  font-size: 5vw;
+}
+
+/* .iframe {
+  justify-content: center;
+  width: 100%; 
+  height: 224vw;
+} */
+
+.exchange {
+  position: absolute;
+  margin-top: 156vw;
+  margin-left: 35.25vw;
+  color: rgb(200, 0, 255);
+  font-weight: 500;
+  border-radius: 2vw;
+  font-size: 6vw;
+  cursor: pointer;
+  font-family: Comic;
+}
+
+.exxt {
+  margin-left: 10vw;
+  margin-top: 167vw;
+  position: absolute;
+  font-family: Comic;
+  color: #fec62b;
+  font-size: 5vw;
+}
+
+.exbm {
+  margin-left: 30vw;
+  margin-top: 167vw;
+  position: absolute;
+  font-family: Comic;
+  color: #000000;
+  font-size: 5vw;
+}
+
+.exse {
+  margin-left: 63vw;
+  margin-top: 167vw;
+  position: absolute;
+  font-family: Comic;
+  color: #fec62b;
+  font-size: 5vw;
+}
+
+.exmc {
+  margin-left: 20vw;
+  margin-top: 177vw;
+  position: absolute;
+  font-family: Comic;
+  color: #1a64cc;
+  font-size: 5vw;
+}
+
+.exob {
+  margin-left: 44vw;
+  margin-top: 177vw;
+  position: absolute;
+  font-family: Comic;
+  color: #58bb03;
+  font-size: 5vw;
+}
+
+.exae {
+  margin-left: 71vw;
+  margin-top: 177vw;
+  position: absolute;
+  font-family: Comic;
+  color: #603a9e;
+  font-size: 5vw;
+}
+
+.card {
+  position: absolute;
+  margin-top: 191vw;
+  margin-left: 35.25vw;
+  color: rgb(200, 0, 255);
+  font-weight: 500;
+  border-radius: 2vw;
+  font-size: 6vw;
+  cursor: pointer;
+  font-family: Comic;
+}
+
+.cams {
+  margin-left: 25vw;
+  margin-top: 200vw;
+  position: absolute;
+  font-family: Comic;
+  color: #ff73fe;
+  font-size: 5vw;
+}
+
+.capr {
+  margin-left: 61vw;
+  margin-top: 200vw;
+  position: absolute;
+  font-family: Comic;
+  color: #1048f8;
+  font-size: 5vw;
+}
+
+.edit {
+  position: absolute;
+  margin-top: 339vw;
+  margin-left: 14.5vw;
+  color: rgb(255, 93, 93);
+  font-weight: 500;
+  border-radius: 2vw;
+  font-size: 6vw;
+  cursor: pointer;
+  font-family: Comic;
+}
+
+.editor {
+  position: absolute;
+  margin-top: 349vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  background-color: rgb(238, 255, 238);
+  padding: 3vw 4.75vw;
+  color: rgb(200, 0, 255);
+  border-radius: 2vw;
+  font-size: 4.5vw;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: Comic;
+  text-align: center;
+  border: solid #ff00c3;
+  border-width: 1vw;
+}
+
+.editicon {
+  width: 100%;
+}

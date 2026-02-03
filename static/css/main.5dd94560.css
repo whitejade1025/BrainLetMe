@@ -1,0 +1,318 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  margin: 0;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, Courier New, monospace;
+}
+.modal {
+  background-image: url(/static/media/go1.ea61c9aab260f821ecbc.JPG);
+  background-position: 50%;
+  background-size: cover;
+  cursor: cell;
+  height: 100%;
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+}
+.modal-content {
+  border-radius: 5px;
+  cursor: cell;
+  max-width: 80%;
+  position: relative;
+  text-align: center;
+}
+@font-face {
+  font-family: Comic;
+  src: url(/static/media/Comic.acf4b7e829f1fcdc78d4.ttf);
+}
+@font-face {
+  font-family: Morant;
+  src: url(/static/media/Morant.88f3fc28a35a9557e5dc.ttf);
+}
+* {
+  box-sizing: border-box;
+}
+.App {
+  background-image: url(/static/media/white.2692f7d210b8783d3ce6.svg);
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.container {
+  position: relative;
+  width: 100%;
+}
+.bg,
+.mid,
+.top {
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+}
+.mid {
+  margin-bottom: 64vw;
+  margin-top: 78vw;
+}
+.bottom {
+  margin-bottom: 2vw;
+}
+.bottom,
+.header {
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+}
+.header {
+  margin-top: 12vw;
+}
+.army {
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: 23.5vw;
+  width: 100%;
+}
+.title {
+  -webkit-text-stroke-width: 0.3vw;
+  -webkit-text-stroke-color: #1eff1e;
+  color: #1eff1e;
+  font-size: 10vw;
+  margin-top: 4vw;
+  text-align: center;
+}
+.ca,
+.title {
+  font-family: Comic;
+  position: absolute;
+  width: 100%;
+}
+.ca {
+  color: #ff7ea0;
+  font-size: 2.5vw;
+  font-weight: 400;
+  margin-top: 62vw;
+  text-align: center;
+}
+.heh {
+  color: red;
+  font-family: Morant;
+  font-size: 3.2vw;
+  font-weight: 1000;
+  margin-top: 13vw;
+}
+.heh,
+.hehe {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+.hehe {
+  color: #f0e;
+  font-size: 2.8vw;
+  margin-top: 120.5vw;
+}
+.heheh {
+  margin-top: 762vw;
+}
+.heheh,
+.hehehe {
+  color: red;
+  font-family: Comic;
+  font-size: 2.8vw;
+  font-size: 8vw;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+  width: 100%;
+}
+.hehehe {
+  margin-top: 266vw;
+}
+.jupiter {
+  background-image: linear-gradient(90deg, #ffc400, #00e1ff, #ff0, #b0f);
+  border-radius: 2vw;
+  color: blue;
+  cursor: pointer;
+  font-family: Comic;
+  font-size: 4vw;
+  margin-left: 6.25vw;
+  margin-top: 141.5vw;
+  padding: 3vw 24.75vw;
+  position: absolute;
+  text-decoration: none;
+}
+.juptier:hover {
+  cursor: cell;
+}
+.icon {
+  height: 8vw;
+}
+.footer {
+  font-family: Comic;
+  font-size: 3vw;
+  margin: 1.5vw 9.5vw 4vw;
+  text-align: center;
+  width: 80%;
+}
+.i1container {
+  margin-left: 14vw;
+}
+.i1container,
+.i2container {
+  margin-top: 66.5vw;
+  position: absolute;
+}
+.i2container {
+  margin-left: 29vw;
+}
+.i3container {
+  margin-left: 44vw;
+}
+.i3container,
+.i4container {
+  margin-top: 66.5vw;
+  position: absolute;
+}
+.i4container {
+  margin-left: 59vw;
+}
+.i5container {
+  margin-left: 74vw;
+  margin-top: 66.5vw;
+  position: absolute;
+}
+.i6container {
+  color: #1eff1e;
+  margin-left: 20vw;
+}
+.i6container,
+.i7container {
+  font-family: Comic;
+  font-size: 5vw;
+  margin-top: 76.5vw;
+  position: absolute;
+}
+.i7container {
+  color: blue;
+  margin-left: 50vw;
+}
+.exchange {
+  border-radius: 2vw;
+  color: #c800ff;
+  cursor: pointer;
+  font-family: Comic;
+  font-size: 6vw;
+  font-weight: 500;
+  margin-left: 35.25vw;
+  margin-top: 156vw;
+  position: absolute;
+}
+.exxt {
+  color: #fec62b;
+  margin-left: 10vw;
+}
+.exbm,
+.exxt {
+  font-family: Comic;
+  font-size: 5vw;
+  margin-top: 167vw;
+  position: absolute;
+}
+.exbm {
+  color: #000;
+  margin-left: 30vw;
+}
+.exse {
+  color: #fec62b;
+  font-family: Comic;
+  font-size: 5vw;
+  margin-left: 63vw;
+  margin-top: 167vw;
+  position: absolute;
+}
+.exmc {
+  color: #1a64cc;
+  margin-left: 20vw;
+}
+.exmc,
+.exob {
+  font-family: Comic;
+  font-size: 5vw;
+  margin-top: 177vw;
+  position: absolute;
+}
+.exob {
+  color: #58bb03;
+  margin-left: 44vw;
+}
+.exae {
+  color: #603a9e;
+  font-size: 5vw;
+  margin-left: 71vw;
+  margin-top: 177vw;
+}
+.card,
+.exae {
+  font-family: Comic;
+  position: absolute;
+}
+.card {
+  border-radius: 2vw;
+  color: #c800ff;
+  cursor: pointer;
+  font-size: 6vw;
+  font-weight: 500;
+  margin-left: 35.25vw;
+  margin-top: 191vw;
+}
+.cams {
+  color: #ff73fe;
+  margin-left: 25vw;
+}
+.cams,
+.capr {
+  font-family: Comic;
+  font-size: 5vw;
+  margin-top: 200vw;
+  position: absolute;
+}
+.capr {
+  color: #1048f8;
+  margin-left: 61vw;
+}
+.edit {
+  color: #ff5d5d;
+  font-size: 6vw;
+  margin-left: 14.5vw;
+  margin-top: 339vw;
+}
+.edit,
+.editor {
+  border-radius: 2vw;
+  cursor: pointer;
+  font-family: Comic;
+  font-weight: 500;
+  position: absolute;
+}
+.editor {
+  background-color: #efe;
+  border: 1vw solid #ff00c3;
+  color: #c800ff;
+  font-size: 4.5vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  margin-top: 349vw;
+  padding: 3vw 4.75vw;
+  text-align: center;
+}
+.editicon {
+  width: 100%;
+}
+/*# sourceMappingURL=main.5dd94560.css.map*/
