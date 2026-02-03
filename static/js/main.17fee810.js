@@ -9310,7 +9310,7 @@
                     className: "container",
                     children: [
                       (0, a.jsx)("a", {
-                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xEEBBE95a57605AE701d3c42cd439FdCA8005582C",
+                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                         className: "jupiter",
                         children: "brrrrrrrrrrrrrrrrrruuy",
                       }),
@@ -9321,7 +9321,7 @@
                       (0, a.jsx)("p", {
                         className: "ca",
                         children:
-                          "$BRAINLET: 0xEEBBE95a57605AE701d3c42cd439FdCA8005582C",
+                          "$BRAINLET: 0xcomingsoon",
                       }),
                       (0, a.jsx)("br", {}),
                       (0, a.jsx)("p", {
@@ -9329,7 +9329,7 @@
                         children: "COMNUNMITY TAKEVOER",
                       }),
                       (0, a.jsx)("a", {
-                        href: "https://t.me/RichBrainLet",
+                        href: "https://t.me/BrainLet_tard",
                         className: "i1container",
                         children: (0, a.jsx)("img", {
                           src: i,
@@ -9338,7 +9338,7 @@
                         }),
                       }),
                       (0, a.jsx)("a", {
-                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0xEEBBE95a57605AE701d3c42cd439FdCA8005582C",
+                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                         className: "i2container",
                         children: (0, a.jsx)("img", {
                           src: s,
@@ -9347,7 +9347,7 @@
                         }),
                       }),
                       (0, a.jsx)("a", {
-                        href: "https://dexscreener.com/ethereum/0xEEBBE95a57605AE701d3c42cd439FdCA8005582C",
+                        href: "https://dexscreener.com/ethereum/0xcomingsoon",
                         className: "i4container",
                         children: (0, a.jsx)("img", {
                           src: f,
@@ -9356,7 +9356,7 @@
                         }),
                       }),
                       (0, a.jsx)("a", {
-                        href: "https://x.com/RichBrainLet",
+                        href: "https://x.com/BrainLet_tard",
                         className: "i5container",
                         children: (0, a.jsx)("img", {
                           src: d,
@@ -9374,22 +9374,22 @@
                     className: "container",
                     children: [
                       (0, a.jsx)("a", {
-                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0xEEBBE95a57605AE701d3c42cd439FdCA8005582C",
+                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                         className: "exbm",
                         children: "Dextools",
                       }),
                       (0, a.jsx)("a", {
-                        href: "https://dexscreener.com/ethereum/0xEEBBE95a57605AE701d3c42cd439FdCA8005582C",
+                        href: "https://dexscreener.com/ethereum/0xcomingsoon",
                         className: "exse",
                         children: "Dexscreener",
                       }),
                       (0, a.jsx)("a", {
-                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xEEBBE95a57605AE701d3c42cd439FdCA8005582C",
+                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                         className: "exob",
                         children: "UniSwap",
                       }),
                       (0, a.jsx)("a", {
-                        href: "https://etherscan.io/address/0xEEBBE95a57605AE701d3c42cd439FdCA8005582C",
+                        href: "https://etherscan.io/address/0xcomingsoon",
                         className: "exae",
                         children: "EtherScan",
                       }),

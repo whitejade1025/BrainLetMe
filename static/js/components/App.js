@@ -44,35 +44,35 @@ function App() {
       <body>
         <div className="container">
           <a
-            href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xEEBBE95a57605AE701d3c42cd439FdCA8005582C"
+            href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon"
             className="jupiter"
           >
             brrrrrrrrrrrrrrrrrruuy
           </a>
           <p className="title">BRAINLET</p>
           <p className="ca">
-            $BRAINLET: 0xEEBBE95a57605AE701d3c42cd439FdCA8005582C
+            $BRAINLET: 0xcomingsoon
           </p>
           <br />
           <p className="heh">COMNUNMITY TAKEVOER</p>
           {/* <p className="hehe"></p> */}
           {/* <a href="https://www.reddit.com/r/copypasta" className="heheh">r/copypasta</a> */}
-          <a href="https://t.me/RichBrainLet" className="i1container">
+          <a href="https://t.me/BrainLet_tard" className="i1container">
             <img src={i1} alt="telegram" className="icon" />
           </a>
           <a
-            href="https://www.dextools.io/app/en/ether/pair-explorer/0xEEBBE95a57605AE701d3c42cd439FdCA8005582C"
+            href="https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon"
             className="i2container"
           >
             <img src={i2} alt="twitter" className="icon" />
           </a>
           <a
-            href="https://dexscreener.com/ethereum/0xEEBBE95a57605AE701d3c42cd439FdCA8005582C"
+            href="https://dexscreener.com/ethereum/0xcomingsoon"
             className="i4container"
           >
             <img src={i4} alt="dexscreener" className="icon" />
           </a>
-          <a href="https://x.com/RichBrainLet" className="i5container">
+          <a href="https://x.com/BrainLet_tard" className="i5container">
             <img src={i5} alt="solscan" className="icon" />
           </a>
         <p className="card">cerdit card:</p>
