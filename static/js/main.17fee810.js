@@ -9310,7 +9310,7 @@
                     className: "container",
                     children: [
                       (0, a.jsx)("a", {
-                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xf9f3526ca425e5a1a44222810602f0002e4a4769",
                         className: "jupiter",
                         children: "brrrrrrrrrrrrrrrrrruuy",
                       }),
@@ -9321,7 +9321,7 @@
                       (0, a.jsx)("p", {
                         className: "ca",
                         children:
-                          "$BRAINLET: 0xcomingsoon",
+                          "$BRAINLET: 0xf9f3526ca425e5a1a44222810602f0002e4a4769",
                       }),
                       (0, a.jsx)("br", {}),
                       (0, a.jsx)("p", {
@@ -9338,7 +9338,7 @@
                         }),
                       }),
                       (0, a.jsx)("a", {
-                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0xf9f3526ca425e5a1a44222810602f0002e4a4769",
                         className: "i2container",
                         children: (0, a.jsx)("img", {
                           src: s,
@@ -9347,7 +9347,7 @@
                         }),
                       }),
                       (0, a.jsx)("a", {
-                        href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                        href: "https://dexscreener.com/ethereum/0xf9f3526ca425e5a1a44222810602f0002e4a4769",
                         className: "i4container",
                         children: (0, a.jsx)("img", {
                           src: f,
@@ -9364,7 +9364,7 @@
                           className: "icon",
                         }), 
                       }),
-                    ],
+                    ], 
                   }),
                   (0, a.jsx)("p", {
                     className: "exchange",
@@ -9374,22 +9374,22 @@
                     className: "container",
                     children: [
                       (0, a.jsx)("a", {
-                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0xf9f3526ca425e5a1a44222810602f0002e4a4769",
                         className: "exbm",
                         children: "Dextools",
                       }),
                       (0, a.jsx)("a", {
-                        href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                        href: "https://dexscreener.com/ethereum/0xf9f3526ca425e5a1a44222810602f0002e4a4769",
                         className: "exse",
                         children: "Dexscreener",
                       }),
                       (0, a.jsx)("a", {
-                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xf9f3526ca425e5a1a44222810602f0002e4a4769",
                         className: "exob",
                         children: "UniSwap",
                       }),
                       (0, a.jsx)("a", {
-                        href: "https://etherscan.io/address/0xcomingsoon",
+                        href: "https://etherscan.io/address/0xf9f3526ca425e5a1a44222810602f0002e4a4769",
                         className: "exae",
                         children: "EtherScan",
                       }),

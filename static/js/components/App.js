@@ -44,14 +44,14 @@ function App() {
       <body>
         <div className="container">
           <a
-            href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon"
+            href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xf9f3526ca425e5a1a44222810602f0002e4a4769"
             className="jupiter"
           >
             brrrrrrrrrrrrrrrrrruuy
           </a>
           <p className="title">BRAINLET</p>
           <p className="ca">
-            $BRAINLET: 0xcomingsoon
+            $BRAINLET: 0xf9f3526ca425e5a1a44222810602f0002e4a4769
           </p>
           <br />
           <p className="heh">COMNUNMITY TAKEVOER</p>
@@ -61,13 +61,13 @@ function App() {
             <img src={i1} alt="telegram" className="icon" />
           </a>
           <a
-            href="https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon"
+            href="https://www.dextools.io/app/en/ether/pair-explorer/0xf9f3526ca425e5a1a44222810602f0002e4a4769"
             className="i2container"
           >
             <img src={i2} alt="twitter" className="icon" />
           </a>
           <a
-            href="https://dexscreener.com/ethereum/0xcomingsoon"
+            href="https://dexscreener.com/ethereum/0xf9f3526ca425e5a1a44222810602f0002e4a4769"
             className="i4container"
           >
             <img src={i4} alt="dexscreener" className="icon" />
