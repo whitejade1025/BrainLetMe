@@ -9353,7 +9353,7 @@
                           src: f,
                           alt: "dexscreener",
                           className: "icon",
-                        }),
+                        }), 
                       }),
                       (0, a.jsx)("a", {
                         href: "https://x.com/BrainLet_tard",
@@ -9362,7 +9362,7 @@
                           src: d,
                           alt: "solscan",
                           className: "icon",
-                        }),
+                        }), 
                       }),
                     ],
                   }),
